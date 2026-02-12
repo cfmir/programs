@@ -8,6 +8,11 @@
 - эксперимент под Android Automotive / Automotive-like систему Li Auto
 
 ---
+## 📸 Screenshots
+
+![Main screen](https://github.com/cfmir/programs/blob/screenshots/IMAGE%202026-02-13%2000%3A11%3A25.jpg))
+![Main screen](https://github.com/cfmir/programs/blob/screenshots/IMAGE%202026-02-13%2000%3A12%3A12.jpg))
+
 
 ## 📱 О проекте
 Приложение предназначено для:
